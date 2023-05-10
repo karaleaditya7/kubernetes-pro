@@ -34,7 +34,7 @@ spec:
 
       - name: flask-app
 
-        image: karaleaditya7/project1:k8s
+        image: karaleaditya7/kubernetes-pro:latest
 
         ports:
 
